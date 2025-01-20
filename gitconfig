@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = edaudland@gmail.com
+	name = Ed Audland
